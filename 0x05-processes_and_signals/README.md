@@ -1,1 +1,0 @@
-Devops, system engineering
